@@ -1,0 +1,79 @@
+#+TITLE: Transição para a faculdade
+#+DATE: A experiência de ex-alunos da ESIC
+#+AUTHOR:
+#+OPTIONS: num:nil toc:nil timestamp:nil
+#+MACRO: color @@html:<span style="color: $1">$2</span>@@@@latex:\textcolor{$1}{$2}@@@@odt:<text:span text:style-name="$1">$2</text:span>@@
+#+MACRO: bgcolor @@html:<span style="padding: 10px; background-color: $1;">$2</span>@@
+
+* Objetivo
+- Mostrar diferentes perspetivas de antigos estudantes da ESIC sobre a universidade
+- Tentar dar algumas dicas
+- Tirar dúvidas que tenham
+
+* Gonçalo Santos
+- Aluno da ESIC durante 6 anos
+- Estudante do 2º ano da faculdade
+- Engenharia Electrotécnica e Computadores (FEUP)
+
+* A minha experiência
+** Muito antes da faculdade
+#+ATTR_REVEAL: :frag (appear)
+- Fascínio por todo o tipo de dispositivos
+- Gosto por matemática, física e geometria descritiva
+- Começar a aprender a programar
+
+** 12º ano
+*** {{{color(red, Lançamento do balão estratosférico)}}}
+:PROPERTIES:
+:REVEAL_EXTRA_ATTR: data-background-video="./vids/Lançamento Balão.mp4"; data-background-video-loop="loop"; data-background-video-muted=true
+:END:
+*** {{{bgcolor(rgba(0\,0\,0\,.9), Participem em projetos!)}}}
+:PROPERTIES:
+:REVEAL_BACKGROUND: img/Recovery.jpg
+:END:
+** 1º ano de faculdade
+Exigente
+
+#+ATTR_REVEAL: :frag appear
+No entanto:
+#+ATTR_REVEAL: :frag (appear)
+- Boa preparação anterior
+- Hábitos de trabalho regular
+- Interesse pelo curso
+- Proximidade e disponibilidade dos professores
+
+** Prémio incentivo da UP
+** 2º ano de faculdade
+#+ATTR_REVEAL: :frag (none appear)
+- Aumentou a dificuldade
+- Gestão de tempo tornou-se fundamental
+
+** Perspetivas para o futuro
+
+* Conselhos gerais
+#+ATTR_REVEAL: :frag (appear)
+- Gostar do que fazem é meio caminho andado
+  - Projetos, mostra da UP, dias abertos...
+- Gestão de tempo é *muito* importante
+- Persistência
+- Não tenham medo de falar com os professores
+  - Para tirar dúvidas
+  - Nas revisões das correções dos testes
+
+* André Aragão
+- Aluno da ESIC durante 6 anos
+- Estudante do 2º ano da faculdade
+- Engenharia Electrotécnica e Computadores (FEUP)
+
+* Tânia Rocha
+- Aluna da ESIC durante 6 anos
+- Estudante do 2º ano da faculdade
+- Medicina (FMUP)
+
+* Nuno Barros
+- Aluno da ESIC durante 3 anos
+- 1º ano - Engenharia Mecânica (ISEP)
+- 2º ano - Engenharia Mecânica (FEUP)
+
+* Perguntas?
+* Obrigado
