@@ -70,6 +70,47 @@ No entanto:
 - Estudante do 2º ano da faculdade
 - Medicina (FMUP)
 
+** Porquê medicina?
+#+ATTR_REVEAL: :frag (appear)
+- Fascínio por biologia e corpo humano
+- Desejo de fazer investigação
+
+** Porquê a FMUP?
+#+ATTR_REVEAL: :frag (appear)
+- Plano interessante
+- Teatro anatómico
+
+** Até chegar lá...
+#+ATTR_REVEAL: :frag (appear)
+- Esforço por boa média
+- Exames nacionais
+
+** A transição para a faculdade
+** Diferenças gerais
+#+ATTR_REVEAL: :frag (appear)
+- Mais longe de casa
+- Pessoas desconhecidas
+- Ambiente desconhecido
+
+** Conselhos
+#+ATTR_REVEAL: :frag (appear)
+- Evitar o isolamento
+- Procurar informações o mais cedo possível
+
+** Diferenças no estudo
+#+ATTR_REVEAL: :frag (appear)
+- Materiais
+- Métodos
+- Quantidade e tipo de matéria
+- Notas
+
+** Conselhos
+#+ATTR_REVEAL: :frag (appear)
+- Tentar acompanhar a matéria desde o início
+- Personalizar o estudo
+- Organização
+- Não se sentirem derrotados
+
 * Nuno Barros
 - Aluno da ESIC durante 3 anos
 - 1º ano - Engenharia Mecânica (ISEP)
